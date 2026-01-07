@@ -14,6 +14,21 @@
     "web": "https://github.com/bk20x/M"
   },
   {
+    "name": "m",
+    "url": "https://github.com/bk20x/M",
+    "method": "git",
+    "tags": [
+      "scripting-language",
+      "lisp",
+      "embeddable",
+      "functional-programming",
+      "scripting"
+    ],
+    "description": "Lightweight and easily extendable / embeddable Lisp dialect with no VM and deterministic performance.",
+    "license": "BSD-3-Clause",
+    "web": "https://github.com/bk20x/M"
+  },
+  {
     "name": "treestand",
     "url": "https://github.com/YesDrX/nim-treestand",
     "method": "git",
@@ -36976,5 +36991,30 @@
     "description": "Cue configuration with JSON fallback for Nim projects",
     "license": "MIT",
     "web": "https://github.com/WaywardWizard/cueconfig"
+  },
+  {
+    "name": "oauth2",
+    "url": "https://github.com/Niminem/oauth2",
+    "method": "git",
+    "tags": [
+      "oauth",
+      "oauth2"
+    ],
+    "description": "A comprehensive OAuth2 library for Nim with support for multiple grant types, PKCE (RFC 7636), and token management utilities.",
+    "license": "MIT",
+    "web": "https://github.com/Niminem/oauth2"
+  },
+  {
+    "name": "nasp",
+    "url": "https://github.com/Niminem/Nasp",
+    "method": "git",
+    "tags": [
+      "apps-script",
+      "google",
+      "api"
+    ],
+    "description": "Nasp is a CLI tool for developing Apps Script projects on your local machine using the Nim programming language.",
+    "license": "MIT",
+    "web": "https://github.com/Niminem/Nasp"
   }
 ]
